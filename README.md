@@ -1,7 +1,6 @@
 # 🏨 StaySync — Hotel Management System
 
 > Full-stack web app built with React + FastAPI + PostgreSQL  
-> Amity University, B.Tech IT — Semester 5 Project
 
 ---
 
