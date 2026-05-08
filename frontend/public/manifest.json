@@ -1,0 +1,12 @@
+{
+  "name": "StaySync Hotel Management",
+  "short_name": "StaySync",
+  "description": "Premium Hotel Management System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1E3A8A",
+  "theme_color": "#1D4ED8",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
